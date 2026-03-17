@@ -1,0 +1,7 @@
+
+.block { display: block; }
+.inline { display: inline; }
+.inline-block { display: inline-block; width: 100px; }
+
+.hidden { visibility: hidden; }
+.none { display: none; }
