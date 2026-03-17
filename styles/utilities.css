@@ -1,0 +1,12 @@
+.text-center { text-align: center; }
+.mt-10 { margin-top: 10px; }
+
+.hide-mobile {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .hide-mobile {
+    display: none;
+  }
+}
